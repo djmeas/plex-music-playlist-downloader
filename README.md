@@ -2,6 +2,8 @@
 
 A beautiful Vue 3 application that connects to your local Plex instance and allows you to view and download music playlists by archiving all the music files to a location of your choice.
 
+<img width="1388" height="1267" alt="image" src="https://github.com/user-attachments/assets/9d1ab5b0-91f9-4325-9098-dd348d37b691" />
+
 ## Features
 
 - 🔗 Connect to your local Plex server
